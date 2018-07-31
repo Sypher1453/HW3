@@ -9,3 +9,8 @@ numpy 1.14.5
 
 実行の様子:
 (URL:) https://youtu.be/OeW2JT_G92s
+
+参考文献:
+Microsoft Azure Notebooks
+  2018imageprocessing  1.5_レポートtask
+(URL:) https://notebooks.azure.com/tamaki/libraries/2018imageprocessing/html/IP3.ipynb
